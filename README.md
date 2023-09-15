@@ -1,2 +1,2 @@
 # 2nd_New
-demo try througth apnaCollege
+1st demo try througth apnaCollege
